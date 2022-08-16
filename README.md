@@ -142,3 +142,5 @@
 
 
 Github Contributions
+
+![snake gif](https://github.com/anishmandal939/anishmandal939/blob/output/github-contribution-grid-snake.svg)
