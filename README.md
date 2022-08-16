@@ -140,7 +140,3 @@
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 -->
 
-
-Github Contributions
-
-![snake gif](https://github.com/AnishMandal939/AnishMandal939/blob/output/github-contribution-grid-snake.svg)
