@@ -4,6 +4,14 @@
 - 🌱 I’m currently persuing my Bachelor Degree on Computer Engineering 2017-2021
 - 💞️ I’m looking to collaborate to other content creators
 - 📫 How to reach me ... mandalktaanees12@gmail.com , anishmandal694@gmail.com +9779862170694
+- :briefcase: Software Engineer @bitskraft :nepal:
+
+
+ <!-- ## :heart: :love_you_gesture: -->
+
+:tea: :coffee: :cat: :sunflower: :palm_tree: :musical_note: :swimmer: :walking: :globe_with_meridians: :nepal: :call_me_hand: :calendar: :spiral_calendar: :desktop_computer:
+
+ <!-- ## :telescope: :brain: -->
 
 
 
@@ -122,9 +130,14 @@
 <!-- </details> -->
 
 <!-- <details>
+ [![AnishMandal's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnishMandal939&count_private=true&show_icons=true&repo=github-readme-stats)](https://github.com/AnishMandal939/github-readme-stats) 
   <summary>:zap: GitHub Stats</summary> -->
 
-  [![AnishMandal's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnishMandal939&count_private=true&show_icons=true&repo=github-readme-stats)](https://github.com/AnishMandal939/github-readme-stats)
+ 
+  ![AnishMandal939's Stats](https://github-readme-stats.vercel.app/api?username=AnishMandal939&theme=yeblu&show_icons=true&hide_border=true&count_private=true)
+  ![AnishMandal939's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnishMandal939&theme=prussian&hide_border=true)
+  
+  ![AnishMandal939's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnishMandal939&theme=prussian&show_icons=true&hide_border=true&layout=compact)
 <!--   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> -->
 
 <!-- </details> -->
@@ -138,5 +151,14 @@
 <!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 -->
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
+[My Gists](https://gist.github.com/AnishMandal939)
+
+## :seedling:
+-->
+
+
+## :trophy:
+
+<img src="https://github-profile-trophy.vercel.app/?username=AnishMandal939&theme=darkhub&row=2&column=4" />
